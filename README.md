@@ -54,8 +54,8 @@ DOCUMENT-SUMMARIZER/
 
 ### 2. Installation
 ```bash
-git clone https://github.com/Bhuvaneshwari-2005/DOCUMENT-SUMMARIZER.git
-cd DOCUMENT-SUMMARIZER
+git clone https://github.com/Bhuvaneshwari-2005/INTELLIGENT-DOCUMENT-RETRIEVAL-AND-CONVERSATIONAL-INTERFACE.git
+cd INTELLIGENT-DOCUMENT-RETRIEVAL-AND-CONVERSATIONAL-INTERFACE
 pip install -r requirements.txt
 ```
 
