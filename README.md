@@ -1,4 +1,4 @@
-# 📄 DOCUMENT SUMMARIZER (RAG AI)
+# 📄 INTELLIGENT DOCUMENT RETRIEVAL AND CONVERSATIONAL INTERFACE
 
 A state-of-the-art **Retrieval-Augmented Generation (RAG)** system designed for intelligent document interaction. Upload your files and engage in context-aware conversations powered by **Groq (Llama-3.3-70b)**, **ChromaDB**, and **Sentence-Transformers**.
 
